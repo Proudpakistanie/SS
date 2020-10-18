@@ -14,9 +14,7 @@ There is latest Facebook Cracking & Cloning Tool
 9:-  ls
 10:- chmod +x GILLANI.py
 11:- python2 GILLANI.py
-_________________________
-Username :- SS
-Password :- GILLANI
+________________________
 #ENJOY FAST CRACKING TOOL
 #SAHIL SHAH GILLANI
 #FB   :- EGOISTC
